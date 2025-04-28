@@ -1,0 +1,22 @@
+[
+    {
+        "netloc": "localhost:8080",
+        "key": "<apikey>"
+    },
+    {
+        "netloc": "localhost:8081",
+        "key": "<apikey>"
+    },
+    {
+        "netloc": "localhost:8082",
+        "key": "<apikey>"
+    },
+    {
+        "netloc": "localhost:8083",
+        "key": "<apikey>"
+    },
+    {
+        "netloc": "localhost:8084",
+        "key": "<apikey>"
+    }
+]

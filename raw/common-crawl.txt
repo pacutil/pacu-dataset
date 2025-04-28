@@ -1,0 +1,20 @@
+https://commoncrawl.org/
+
+foram baixadas 5362370239 (~5bi) urls, obtidas entre 2013 e
+2025.
+
+dessas ~5bi foram selecionadas aleatoriamente 50360179 (~50m)
+usando tools/sampling.
+
+após remover as linhas duplicadas, restaram 49814180 (~50m).
+
+depois foram filtradas pelo serviço do Google Safe Broswing
+(https://developers.google.com/safe-browsing), onde 7695
+foram detectadas como maliciosas.
+
+25m das urls que não foram detectadas pelo GSB foram usadas para
+calcular os vetores de distribuição normal para bigramas e caracteres.
+
+o restante das urls (24806486) compõem o dataset CC-BR-UNLABELED.
+
+as urls detectadas foram ?(descartadas / aproveitadas)

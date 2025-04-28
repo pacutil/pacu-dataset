@@ -1,0 +1,22 @@
+[
+    {
+        "file": "./data/xaa",
+        "outdir": "./data/filtered"
+    },
+    {
+        "file": "./data/xab",
+        "outdir": "./data/filtered"
+    },
+    {
+        "file": "./data/xac",
+        "outdir": "./data/filtered"
+    },
+    {
+        "file": "./data/xad",
+        "outdir": "./data/filtered"
+    },
+    {
+        "file": "./data/xae",
+        "outdir": "./data/filtered"
+    }
+]
